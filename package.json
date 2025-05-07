@@ -1,7 +1,9 @@
 {
-  "name": "tiktok",
+  "name": "tiktok-clone",
   "version": "0.1.0",
   "private": true,
+  "author": "Phạm Lê Ngọc Sơn",
+  "description": "A TikTok clone application with video sharing and social features",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
